@@ -1,3 +1,19 @@
+Metadata-Version: 2.1
+Name: gemini-pro-class-generator
+Version: 1
+Summary: This package contains implementation of an application to generate classes of any programming language, with Gemini Pro integrated into it.
+Home-page: https://github.com/GlobalCreativeApkDev/gemini-pro-class-generator
+Author: GlobalCreativeApkDev
+Author-email: globalcreativeapkdev2022@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # gemini-pro-class-generator
 
 Even wondered about generating classes with their attributes and methods without manually writing hundreds of 
